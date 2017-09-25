@@ -1,0 +1,23 @@
+Introduction to Chrome OS
+Google announced the Chrome operating system in July 2009. They were creating the system in conjunction with manufacturers, just like the Android operating system. The operating system bears the same name as the Google Web browser, Chrome. Devices started coming out in 2011 and are still readily available in stores today. New models run from around $200 to the high-end Chrome Pixel, which sells for around $1200.
+
+Chrome and Android
+Although Android can run on netbooks, Chrome OS is being developed as a separate project. Android is designed for running phones and phone systems. It's not really designed for use on computers. Chrome OS is designed for computers rather than phones.
+
+Google OS Philosophy
+Chrome OS is really designed as an operating system for computers that are only used for connecting to the Internet.Rather than downloading and installing programs, you just run them in your Web browser and store them on the Internet. In order to make that possible, the OS has to boot up very quickly, and the Web browser has to be extremely fast. Chrome OS makes both of those happen. 
+
+To further confuse this distinction, there are rumors that Chrome is indeed destined to become a tablet OS. Netbook sales have been eroding as full-size laptops become cheaper and tablet computers like the iPad become more popular.  However, iPads have declined in popularity in American schools while Chromebooks have gained popularity.  
+
+
+Chrome OS is an operating system designed by Google that is based on the Linux kernel and uses the Google Chrome web browser as its principal user interface. As a result, Chrome OS primarily supports web applications.
+
+Chrome OS has an integrated media player and file manager. It supports Chrome Apps, which resemble native applications, as well as remote access to the desktop. As more Chrome OS machines have entered the market, the operating system is now seldom evaluated apart from the hardware that runs it.
+
+Chrome OS is only available pre-installed on hardware from Google manufacturing partners. An open source equivalent, Chromium OS, can be compiled from downloaded source code.
+
+Hardware
+Main articles: Chromebook, Chromebox, and Chromebit
+
+Feature updates
+In April 2012, Google made the first update to Chrome OS's user interface since the operating system had launched, introducing a hardware-accelerated window manager called "Aura" along with a conventional taskbar. The additions marked a departure from the operating system's original concept of a single browser with tabs and gave Chrome OS the look and feel of a more conventional desktop operating system. "In a way, this almost feels as if Google is admitting defeat here", wrote Frederic Lardinois on TechCrunch. He argued that Google had traded its original version of simplicity for greater functionality. "That’s not necessarily a bad thing, though, and may just help Chrome OS gain more mainstream acceptance as new users will surely find it to be a more familiar experience."
